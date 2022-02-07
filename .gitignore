@@ -1,0 +1,26 @@
+# logs
+*.log
+*.log.gz
+*.tmp
+
+# binary files
+*.pdf
+*.gz
+
+# Core latex/pdflatex auxiliary files:
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+*.bbl
+*.blg
+
+# db files
+*.data
