@@ -10,7 +10,7 @@ The idea of AIP-0002 is to specify and explore concrete ideas for a voting platf
 ## Motivation
 After the introduction of AGPs and AIPs, the next important step is to provide the community with a platform to vote on them. Since anetaBTC functions as a DAO, every owner of cNETA or NETA tokens is entitled to have a say in the future of the protocol. Therefore, it is crucial to provide a fair and robust platform to make these votes and shape the future of the protocol. Verifiability and transparency are strengths of blockchain technology, which is a good underlying principle for building this voting platform. 
 ## Specification
-## Basics
+### Basics
 The basic principle of a vote is simple. Every owner of cNETA or NETA is entitled to vote. However, the amount of tokens a person holds plays a role. The more a person owns, the heavier weighs their decision. Here we will discuss how a voting round could be carried out. In order for a voting session to occur, there needs to be AGPs or AIPs ready to vote on. If this is the case, a voting round is initiated according to the following procedure. 
 * registration period of 7 days announced
 * token holders will be able to register their wallet
